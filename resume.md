@@ -16,7 +16,7 @@ Over a decade of experience building scalable applications using a wide variety 
 ### Skills {#skills}
 
 * Web Design
-  : Skilled with the UI/UX designn that keeps users coming back. Using the twitter Bootstrap css, I'm able to churn out beautiful, responsive HTML5 designs quickly and to spec, without fuss.
+  : Skilled with the UI/UX design that keeps users coming back. Using the twitter Bootstrap css, I'm able to churn out beautiful, responsive HTML5 designs quickly and to spec, without fuss.
 
 * Database Administration
   : Extensive experience with both traditional relational databases and modern NoSQL stores. Familiar with MySQL, PostgreSQL, MSSQL (T-SQL), SQLite, CouchDB, MongoDB, Couchbase, Amazon's SimpleDB (NoSQL for the cloud), and Elastic Search.
@@ -29,6 +29,7 @@ Over a decade of experience building scalable applications using a wide variety 
 
 * Mobile Development
   : 4 years experience developing applications for both iOS and Android.
+
 -------
 
 ### Languages {#technical}
